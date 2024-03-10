@@ -58,7 +58,7 @@ Voce pode consultar o desenho técnico feito em <i>Draw.io</i> na raiz do projet
 No terminal, clone o projeto:
 
 ```
-https://github.com/bielmoita/api-management-cars
+https://github.com/bielmoita/gerenciamento-carros
 ```
 
 Abra o Docker em seu computador.
@@ -72,21 +72,21 @@ pressione para rodar o projeto no Docker.
 
 com o terminal aberto com o diretorio do projeto, execute o seguinte comando para construir a imagem Docker:
 ```
-docker build -t api-car-management .
+docker build -t gerenciamento-carros .
 ```
 Executar um contêiner:
 ```
-docker run -p 8080:8080 api-car-management
+docker run -p 8080:8080 gerenciamento-carros
 ```
 
-Agora a aplicacao estara rodando no endereço da aplicação
+Agora a aplicação estará rodando no endereço da aplicação
 ```
 http://localhost:8080
 ```
 
 Agora acesse a pasta de Collections e abra o Insominia em seu computador.
 ```
-Collection-API-CAR.json
+Collection-Gerenciamento-Carros.json
 ```
 
 Agora basta usar as collections e cadastrar quantos carros voce desejar, ver informações, excluir e etc.
