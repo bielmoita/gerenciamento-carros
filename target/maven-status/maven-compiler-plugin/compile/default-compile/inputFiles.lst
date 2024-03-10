@@ -1,1 +1,7 @@
+/Users/Biel/eclipse-workspace/gerenciamento-carros/src/main/java/br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/models/Carro.java
+/Users/Biel/eclipse-workspace/gerenciamento-carros/src/main/java/br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/controllers/CarroController.java
+/Users/Biel/eclipse-workspace/gerenciamento-carros/src/main/java/br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/utils/StatusCarEnum.java
+/Users/Biel/eclipse-workspace/gerenciamento-carros/src/main/java/br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/repositories/CarroRepository.java
 /Users/Biel/eclipse-workspace/gerenciamento-carros/src/main/java/br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/GerenciamentoDeCarrosApplication.java
+/Users/Biel/eclipse-workspace/gerenciamento-carros/src/main/java/br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/exceptions/ObjectNotFoundException.java
+/Users/Biel/eclipse-workspace/gerenciamento-carros/src/main/java/br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/services/CarroService.java

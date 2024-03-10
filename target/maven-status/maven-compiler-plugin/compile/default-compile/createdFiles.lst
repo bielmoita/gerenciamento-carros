@@ -1,1 +1,8 @@
+br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/models/Carro.class
+br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/repositories/CarroRepository.class
+br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/controllers/CarroController.class
+br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/models/Carro$CarroBuilder.class
+br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/exceptions/ObjectNotFoundException.class
+br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/services/CarroService.class
+br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/utils/StatusCarEnum.class
 br/gabriel/gerenciamento/carros/Gerenciamento/de/Carros/GerenciamentoDeCarrosApplication.class
